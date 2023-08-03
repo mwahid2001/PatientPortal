@@ -61,27 +61,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
-<style>
-  body {
-    background-image: url("images/luxa.org-opacity-changed-Electronic-Health-Records.jpg");
-    background-repeat: no-repeat, repeat;
-    background-size: cover;
-  }
-          html{
-          scroll-behavior:smooth;
-        }
-        @keyframes fade-in {
-          from {
-            opacity: 0;
-          }
-          to {
-            opacity: 1;
-          }
-        }
-        body {
-  animation: fade-in 0.5s ease-in-out;
-}
-</style>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-*">
