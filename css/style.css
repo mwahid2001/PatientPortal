@@ -1,0 +1,16 @@
+*{
+    margin: 5;
+    padding: 5;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+.jumbotron h1{
+    color: #fff;
+}
+
+.jumbotron p{
+    color: #fff;
+}
